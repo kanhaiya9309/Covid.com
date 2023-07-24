@@ -7,4 +7,4 @@ In short, it is the go-to website for anyone who wants information related to co
 Created By:
 
 kanhaiya gawali 
-https://kanhaiya9309.github.io/Tindog.com/
+ https://kanhaiya9309.github.io/Covid.com/
